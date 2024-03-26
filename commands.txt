@@ -1,3 +1,9 @@
+# terraforming
 terraform init
 terraform plan
 terraform apply
+
+# maging orchestra
+docker-compose -f docker-compose.yml up -d
+
+# data warehousing

@@ -207,7 +207,6 @@ node_modules
 scratch*
 /mage_data*
 *secrets*.json
-magic-zoomcamp
 *.json
 
 # solid files

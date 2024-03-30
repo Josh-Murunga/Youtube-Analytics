@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: data-engineeing
+    schema: youtube_analytics
+
+    tables:
+      - name: youtube_trends_partitioned_clustered

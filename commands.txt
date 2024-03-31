@@ -5,5 +5,11 @@ terraform apply
 
 # maging orchestra
 docker-compose -f docker-compose.yml up -d
+Execute the pipeline
 
 # data warehousing
+Run Queries in DWH.sql against BigQuery
+Rename table structure according to your infrastructure
+
+# Transformation
+dbt build
